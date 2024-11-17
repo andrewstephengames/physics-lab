@@ -1,0 +1,2 @@
+#!/bin/sh
+cc -Wall -Wextra -Wpedantic $1 -lraylib && ./a.out
